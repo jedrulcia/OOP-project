@@ -1,0 +1,14 @@
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\bin\Debug\net6.0\BattleForMiddleEarth.exe
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\bin\Debug\net6.0\BattleForMiddleEarth.deps.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\bin\Debug\net6.0\BattleForMiddleEarth.runtimeconfig.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\bin\Debug\net6.0\BattleForMiddleEarth.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\bin\Debug\net6.0\BattleForMiddleEarth.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\BattleForMiddleEarth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\BattleForMiddleEarth.AssemblyInfoInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\BattleForMiddleEarth.AssemblyInfo.cs
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\BattleForMiddleEarth.csproj.CoreCompileInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\BattleForMiddleEarth.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\refint\BattleForMiddleEarth.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\BattleForMiddleEarth.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\BattleForMiddleEarth.genruntimeconfig.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\OOP-project\WarriorWars\obj\Debug\net6.0\ref\BattleForMiddleEarth.dll
